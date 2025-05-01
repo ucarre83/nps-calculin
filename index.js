@@ -1,1 +1,1 @@
-// Página de inicio
+// Panel de administrador
